@@ -2,6 +2,6 @@
   <content><![CDATA[
     <${1:button} ${2:type="button"} class="btn${3-large} disabled">${4:<i class="mdi-content-add ${5:right}"></i>}</${1:button}>
     ]]></content>
-    <tabTrigger>m-disabled-button</tabTrigger>
+    <tabTrigger>m-button:disabled</tabTrigger>
     <description>Materialize diabled button</description>
   </snippet>
