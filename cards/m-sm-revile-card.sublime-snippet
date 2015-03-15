@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
     <div class="card small">
-        <div class="card-image waves-effect waves-block waves-light">
-          <img class="activator" src="${1:images/office.jpg}">
+      <div class="card-image waves-effect waves-block waves-light">
+        <img class="activator" src="${1:images/office.jpg}">
         </div>
         <div class="card-content">
           <span class="card-title activator grey-text text-darken-4">${2:Card Title}<i class="mdi-navigation-more-vert right"></i></span>
@@ -13,6 +13,7 @@
           <p>${4:Here is some more information about this product that is only revealed once clicked on.}</p>
         </div>
       </div>
-]]></content>
-  <tabTrigger>m-sm-revile-card</tabTrigger>
-</snippet>
+      ]]></content>
+      <tabTrigger>m-sm-revile-card</tabTrigger>
+      <description>Materialize revile small card</description>
+    </snippet>

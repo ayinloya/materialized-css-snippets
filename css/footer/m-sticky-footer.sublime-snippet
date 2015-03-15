@@ -14,4 +14,5 @@
     <tabTrigger>m-sticky-footer:css</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>text.css</scope>
+    <description>Materialize CSS for sticky footer</description>
 </snippet>

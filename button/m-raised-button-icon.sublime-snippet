@@ -1,6 +1,7 @@
 <snippet>
   <content><![CDATA[
-<${1:button} ${2:type="button"} class="waves-effect ${3:waves-light} btn">${4:<i class="mdi-file-cloud ${5:left}"></i>}${6:button}</${1:button}>
-]]></content>
-  <tabTrigger>m-raised-button-icon</tabTrigger>
-</snippet>
+    <${1:button} ${2:type="button"} class="waves-effect ${3:waves-light} btn">${4:<i class="mdi-file-cloud ${5:left}"></i>}${6:button}</${1:button}>
+    ]]></content>
+    <tabTrigger>m-raised-button-icon</tabTrigger>
+    <description>Materialize raised button with icon</description>
+  </snippet>
