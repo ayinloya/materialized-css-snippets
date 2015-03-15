@@ -49,7 +49,7 @@ press tab after the typing the snippet code
 
 | Component               | Snippet code                   |
 |-------------------------| :-----------------------------:|
-| HTML5 Template Layout   | m-template:html5               |
+| HTML5 Template Layout   | m-template:html                |
 | Form                    | m-form                         |
 | Submit Buttons          | m-button:submit                |
 | Icons                   | m-icon                         |
