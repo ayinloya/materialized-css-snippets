@@ -44,4 +44,12 @@ There are 3 fun ways for installing this plugin.
 **Note:** You can find your Sublime Text 2/3 packages directory by going to Preferences > Browse Packages.
 
 ### Some examples on how to use this plugin.
+press tab after the typing the snippet code
+### Templates
 
+| Component               | Snippet code                   |
+|-------------------------| :-----------------------------:|
+| HTML5 Template Layout   | m-template:html5               |
+| Form                    | m-form                         |
+| Submit Buttons          | m-button:submit                |
+| Icons                   | m-icon                         |
