@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+    <span class="badge">${1:Badge}</span>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>m-badge</tabTrigger>
+  <!-- Optional: Set a scope t<description>My Fancy Snippet</description>o limit where the snippet will trigger -->
+  <scope>source.html</scope>
+  <description>Materialize badge</description>
+</snippet>

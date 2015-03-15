@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+<${1:button} ${2:type="button"} class="waves-effect ${3:waves-light} btn">${4:button}</${1:button}>
+]]></content>
+  <tabTrigger>m-raised-button</tabTrigger>
+</snippet>
