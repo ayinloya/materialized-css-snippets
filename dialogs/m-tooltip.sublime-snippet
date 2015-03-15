@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+   <!-- data-position can be : bottom, top, left, or right -->
+   <!-- add $('.tooltipped').tooltip({delay: 50}); to document ready -->
+   <!-- data-delay controls delay before tooltip shows (in milliseconds)-->
+   <${1:a} class="btn tooltipped" data-position="${2:bottom}" data-delay="${3:50}" data-tooltip="${4:I am tooltip}">${0:Hover me!}</${1:a}>
+   ]]></content>
+   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>m-tooltip</tabTrigger>
+   <!-- Optional: Set a scope to limit where the snippet will trigger -->
+   <!-- <scope>source.python</scope> -->
+ </snippet>

@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+   <!-- Dropdown Trigger -->
+   <a class='dropdown-button btn' href='#' data-activates='${1:dropdown1}'>Drop Me!</a>
+
+   <!-- Dropdown Structure -->
+   <ul id='${1:dropdown1}' class='dropdown-content'>
+    <li><a href="#!">${2:one}</a></li>
+    <li><a href="#!">${3:two}</a></li>
+    <li class="divider"></li>
+    <li><a href="#!">${4:three}</a></li>
+  </ul>
+  ]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>m-dropdown</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

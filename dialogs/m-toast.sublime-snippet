@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+    <${1:a} class="btn" onclick="${2:toast(${3:'I am a toast'}, ${4:4000})}">${0:Toast!}</${1:a}>
+    ]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>m-toast</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+  </snippet>
