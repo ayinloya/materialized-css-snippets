@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+   <ul class="collection with-header">
+    <li class="collection-header"><h4>${1:First Names}</h4></li>
+    <li class="collection-item"><div>${2:Alvin}<a href="#!" class="secondary-content"><i class="mdi-content-send"></i></a></div></li>
+    <li class="collection-item"><div>${3:Alvin}<a href="#!" class="secondary-content"><i class="mdi-content-send"></i></a></div></li>
+    <li class="collection-item"><div>${4:Alvin}<a href="#!" class="secondary-content"><i class="mdi-content-send"></i></a></div></li>
+    <li class="collection-item"><div>${5:Alvin}<a href="#!" class="secondary-content"><i class="mdi-content-send"></i></a></div></li>
+  </ul>
+  ]]></content>
+  <tabTrigger>m-sec-collection</tabTrigger>
+</snippet>

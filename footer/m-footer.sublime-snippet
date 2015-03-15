@@ -1,0 +1,33 @@
+  <snippet>
+    <content><![CDATA[
+      <footer class="page-footer">
+        <div class="container">
+          <div class="row">
+            <div class="col l6 s12">
+              <h5 class="white-text">${1:Footer Content}</h5>
+              <p class="grey-text text-lighten-4">${2:You can use rows and columns here to organize your footer content.}</p>
+            </div>
+            <div class="col l4 offset-l2 s12">
+              <h5 class="white-text">${3:Links}</h5>
+              <ul>
+                <li><a class="grey-text text-lighten-3" href="#!">${4:Link} 1</a></li>
+                <li><a class="grey-text text-lighten-3" href="#!">${5:Link} 2</a></li>
+                <li><a class="grey-text text-lighten-3" href="#!">${6:Link} 3</a></li>
+                <li><a class="grey-text text-lighten-3" href="#!">${7:Link} 4</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="footer-copyright">
+          <div class="container">
+            © 2015 Copyright ${8:Text}
+            <a class="grey-text text-lighten-4 right" href="#!">${9:More Links}</a>
+          </div>
+        </div>
+      </footer>
+      ]]></content>
+      <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+      <tabTrigger>m-footer</tabTrigger>
+      <!-- Optional: Set a scope to limit where the snippet will trigger -->
+      <!-- <scope>source.hmtl</scope> -->
+    </snippet>

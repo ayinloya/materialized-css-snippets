@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+   <div class="file-field input-field">
+    <input class="file-path validate" type="text"/>
+    <div class="btn">
+      <span>${1:File}</span>
+      <input type="file" />
+    </div>
+  </div>
+</div>
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>m-input:file</tabTrigger>
+<!-- Optional: Set a scope to limit where the snippet will trigger -->
+<!-- <scope>source.python</scope> -->
+</snippet>

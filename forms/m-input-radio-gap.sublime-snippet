@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+    <p>
+      <input ${1:class="with-gap"} name="${2:group1}" type="radio" id="${3:test1}" />
+      <label for="${3:test1}">${4:Label}</label>
+    </p>
+    ]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>m-input:radio-gap</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+  </snippet>

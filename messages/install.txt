@@ -1,0 +1,12 @@
+============================================================
+Thank you for installing Materialized Snippets
+============================================================
+Follow me on Twitter: @ayinloya
+------------------------------------------------------------
+
+Materialized snippets is a selection of snippets
+that will greatly improve your work-flow.
+
+
+Documentation, examples & issue filing can be found here:
+https://github.com/ayinloya/materializedcss-snippets

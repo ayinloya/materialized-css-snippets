@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+    <!-- Switch -->
+    <div class="switch">
+      <label>
+        ${1:Off}
+        <input type="checkbox">
+          <span class="lever"></span>
+          ${2:On}
+        </label>
+      </div>
+      ]]></content>
+      <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+      <tabTrigger>m-input:switch-enabled</tabTrigger>
+      <!-- Optional: Set a scope to limit where the snippet will trigger -->
+      <!-- <scope>source.python</scope> -->
+    </snippet>

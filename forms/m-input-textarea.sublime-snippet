@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+    <div class="input-field col s12">
+      <textarea id="${1:textarea1}" class="${2:materialize-textarea}"></textarea>
+      <label for="${1:textarea1}">${0:Textarea}</label>
+    </div>
+    ]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>m-input:textarea</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+  </snippet>

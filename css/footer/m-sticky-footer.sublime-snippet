@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+    body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    }
+
+    main {
+    flex: 1 0 auto;
+    }
+    ]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>m-sticky-footer:css</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.css</scope>
+</snippet>
