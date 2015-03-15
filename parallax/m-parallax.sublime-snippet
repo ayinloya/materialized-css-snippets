@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+
+    <div class="parallax-container">
+      <div class="parallax"><img src="${1:images/parallax1.jpg}"></div>
+    </div>
+    ]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>m-parallax</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+  </snippet>

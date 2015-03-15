@@ -1,8 +1,9 @@
 <snippet>
   <content><![CDATA[
-    <div class="${2:col s${1}} ${3:col m${1}} ${4:col ${5:col l${1}}">
+    <div class="${2:col s${1}} ${3: m${1}}  ${4: l${1}}">
       ${0}
     </div>
     ]]></content>
     <tabTrigger>m-col</tabTrigger>
   </snippet>
+
