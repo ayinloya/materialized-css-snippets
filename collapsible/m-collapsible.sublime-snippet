@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<ul class="collapsible" data-collapsible="accordion">
+    <ul class="collapsible" data-collapsible="accordion">
     <li>
       <div class="collapsible-header"><i class="mdi-image-filter-drama"></i>First</div>
       <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div>
