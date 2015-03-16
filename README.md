@@ -44,7 +44,7 @@ There are 3 fun ways for installing this plugin.
 **Note:** You can find your Sublime Text 2/3 packages directory by going to Preferences > Browse Packages.
 
 ### Some examples on how to use this plugin.
-press tab after the typing the snippet code
+press tab after the typing the following snippet codes
 ### Templates
 
 | Component               | Snippet code                   |
