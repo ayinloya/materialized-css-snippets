@@ -1,5 +1,5 @@
 Materialize - Sublime Plugin
-==================
+=============================
 
 Materialized snippets contains snippets of Materialized CSS components.
 Hope  it improves your workflow. :)
@@ -8,7 +8,7 @@ Contribute as much as you can via
 - Twitter [@ayinloya](https://twitter.com/ayinloya)
 - [Issues](https://github.com/ayinloya/materialized-css-snippets/issues)
 
-File any issues or you can correct any issues and send me pull requests. 
+File any issues or fork, clone, correct and send me pull requests. 
 No contribution is small.
 
 
@@ -44,7 +44,7 @@ There are 3 fun ways for installing this plugin.
 **Note:** You can find your Sublime Text 2/3 packages directory by going to Preferences > Browse Packages.
 
 ### Some examples on how to use this plugin.
-press tab after typing the following snippet codes
+Press tab after typing the following snippet codes
 
 ### Templates
 
