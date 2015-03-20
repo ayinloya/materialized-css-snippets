@@ -65,3 +65,16 @@ Press tab after typing the following snippet codes
 | Component                 | Snippet code                   |
 |---------------------------| :-----------------------------:|
 | Icons                     | m-icon                         |
+
+### Footer
+
+| Component                 | Snippet code                   |
+|---------------------------| :-----------------------------:|
+| Footer                    | m-footer                       |
+
+### Cards
+
+| Component                 | Snippet code                   | 
+|---------------------------| :-----------------------------:| 
+| Default card              | m-card                         | 
+| Image card                | m-card:image                   |
