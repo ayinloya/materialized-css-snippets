@@ -15,6 +15,6 @@
         </div>
       </div>
       ]]></content>
-      <tabTrigger>m-lg-basic-card</tabTrigger>
+      <tabTrigger>m-card:lg</tabTrigger>
       <description>Materialize basic large card</description>
     </snippet>
