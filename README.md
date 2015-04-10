@@ -154,9 +154,9 @@ Press tab after typing the following snippet codes
 | Component                   | Snippet code                 |
 |-----------------------------| :---------------------------:|
 | Basic Collection            | m-collection                 |
-| Collection with avatar      | m-avatar-collection          |
-| Collection(Swipe to Dismiss)| m-dismiss-collection         |
-| Collection with links       | m-sec-collection             |
+| Collection with avatar      | m-collection:avatar          |
+| Collection(Swipe to Dismiss)| m-collection:dismiss         |
+| Collection with links       | m-collection:sec             |
 
 ### Dialogs
 

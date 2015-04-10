@@ -7,6 +7,6 @@
     <li class="collection-item dismissable"><div>${4:Alvin}<a href="#!" class="secondary-content"><i class="mdi-content-send"></i></a></div></li>
   </ul>
   ]]></content>
-  <tabTrigger>m-dismiss-collection</tabTrigger>
+  <tabTrigger>m-collection:dismiss</tabTrigger>
   <description>Materialize swipe-to-dismiss collection</description>
 </snippet>
