@@ -15,6 +15,6 @@
       </div>
     </div>
     ]]></content>
-    <tabTrigger>m-md-basic-card</tabTrigger>
+    <tabTrigger>m-card:md</tabTrigger>
     <description>Materialize basic medium card</description>
   </snippet>

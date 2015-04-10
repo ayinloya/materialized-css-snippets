@@ -14,6 +14,6 @@
         </div>
       </div>
       ]]></content>
-      <tabTrigger>m-md-revile-card</tabTrigger>
+      <tabTrigger>m-revile-card:md</tabTrigger>
       <description>Materialize revile medium card</description>
     </snippet>

@@ -19,6 +19,6 @@
      </li>
    </ul>
    ]]></content>
-   <tabTrigger>m-avatar-collection</tabTrigger>
+   <tabTrigger>m-collection:avatar</tabTrigger>
    <description>Materialize collection with avatar</description>
  </snippet>
