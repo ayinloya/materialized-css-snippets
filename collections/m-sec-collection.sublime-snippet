@@ -8,6 +8,6 @@
     <li class="collection-item"><div>${5:Alvin}<a href="#!" class="secondary-content"><i class="mdi-content-send"></i></a></div></li>
   </ul>
   ]]></content>
-  <tabTrigger>m-sec-collection</tabTrigger>
+  <tabTrigger>m-collection:sec</tabTrigger>
   <description>Materialize collection with links</description>
 </snippet>

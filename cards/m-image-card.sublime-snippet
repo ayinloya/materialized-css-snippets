@@ -18,6 +18,6 @@
           </div>
         </div>
         ]]></content>
-        <tabTrigger>m-card:image</tabTrigger>
+        <tabTrigger>m-image-card</tabTrigger>
         <description>Materialize image card</description>
       </snippet>
