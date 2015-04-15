@@ -1,0 +1,15 @@
+v1.0.1 Changelog:
+--------------------------------------------------------------------------------
+
+
+* Thanks to (@theprinceanim), we now have a very comprehensive readme
+* CDN
+* collection tab triggers
+
+If you find any bugs or have a contribution please let me know at:
+
+https://github.com/ayinloya/materialized-css-snippets
+
+Happy coding. :)
+
+--------------------------------------------------------------------------------
