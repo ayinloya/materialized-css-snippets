@@ -56,6 +56,7 @@ There are 3 fun ways for installing this plugin.
 ### Some examples on how to use this plugin.
 Press tab after typing the following snippet codes
 
+
 ### CDN
 
 | Component                 | Snippet code                   |
@@ -179,6 +180,9 @@ Press tab after typing the following snippet codes
 |---------------------------| :-----------------------------:|
 | Footer                    | m-footer                       |
 | Sticky footer             | m-sticky-footer:css            |
+
+*Sticky footer contains CSS code for implementing a sticky footer.
+
 
 ### Grid
 
