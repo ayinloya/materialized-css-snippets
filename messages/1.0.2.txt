@@ -1,0 +1,17 @@
+v1.0.2 Changelog:
+--------------------------------------------------------------------------------
+
+
+* Thanks to (@theprinceanim), we now have a very comprehensive readme
+* CDN
+* collection tab triggers
+* m-navbar:slideout-js fixed but remember to add $
+* m-sticky-footer:css fixed
+
+If you find any bugs or have a contribution please let me know at:
+
+https://github.com/ayinloya/materialized-css-snippets
+
+Happy coding. :)
+
+--------------------------------------------------------------------------------
