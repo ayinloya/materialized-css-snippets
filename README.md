@@ -225,9 +225,11 @@ Press tab after typing the following snippet codes
 
 | Component                 | Snippet code                   |
 |---------------------------| :-----------------------------:|
-| Navbar-slideout-js        | m-navbar:slideout-js           |
-| Pushpin                   | m-pushpin                      |
-| Scrollfire                | m-scrollfire                   |
+| Scrollfire                |   m-scrollfire                 |
+| Pushpin                   |   m-pushpin                    |
+| Navbar-slideout-js        |   m-navbar:slideout-js         |
+
+*Remember to precede Navbar-slideout-js with the "$" sign
 
 ### Media
 
