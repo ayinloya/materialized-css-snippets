@@ -1,17 +1,17 @@
 <snippet>
-  <content><![CDATA[
-    <!-- add $('select').material_select(); to document.ready -->
-    <label>${1:Materialize Disabled}</label>
-    <select ${0:class="browser-default"} disabled>
-      <option value="" disabled selected>${2:Choose your option}</option>
-      <option value="${3:1}">${4:Option 1}</option>
-      <option value="${5:2}">${6:Option 2}</option>
-      <option value="${7:3}">${8:Option 3}</option>
-    </select>
-    ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>m-input:select-disabled</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
-    <description>Materialize disabled select button</description>
-  </snippet>
+	<content><![CDATA[
+<!-- add $('select').material_select(); to document.ready -->
+<label>${1:Materialize Disabled}</label>
+<select ${0:class="browser-default"} disabled>
+	<option value="" disabled selected>${2:Choose your option}</option>
+	<option value="${3:1}">${4:Option 1}</option>
+	<option value="${5:2}">${6:Option 2}</option>
+	<option value="${7:3}">${8:Option 3}</option>
+</select>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>m-input:select-disabled</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Materialize disabled select button</description>
+</snippet>

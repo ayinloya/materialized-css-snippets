@@ -1,42 +1,42 @@
 <snippet>
-  <content><![CDATA[
-    <div class="row">
-      <form class="col s12">
-        <div class="row">
-          <div class="input-field col s6">
-            <input id="${1:first_name}" type="text" class="validate">
-              <label for="${1:first_name}">${1:First Name}</label>
-            </div>
-            <div class="input-field col s6">
-              <input id="${2:last_name}" type="text" class="validate">
-                <label for="${2:last_name}">{Last$ 2:Name}</label>
-              </div>
-            </div>
-            <div class="row">
-              <div class="input-field col s12">
-                <input id="${3:username}" type="text" class="validate">
-                  <label for="${3:username}">${3:Username}</label>
-                </div>
-              </div>
-              <div class="row">
-                <div class="input-field col s12">
-                  <input id="${4:password}" type="password" class="validate">
-                    <label for="${4:password}">${4:Password}</label>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="input-field col s12">
-                    <input id="email" type="email" class="validate">
-                      <label for="email">Email</label>
-                    </div>
-                  </div>
-                  <${5:button} ${6:type="button"} class="btn waves-effect waves-light">${7:<i class="mdi-content-send ${8:right}"></i>}</${5:button}>
-                </form>
-              </div>
-              ]]></content>
-              <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-              <tabTrigger>m-form:register</tabTrigger>
-              <!-- Optional: Set a scope to limit where the snippet will trigger -->
-              <!-- <scope>source.python</scope> -->
-              <description>Materialize registration form</description>
-            </snippet>
+	<content><![CDATA[
+<div class="row">
+	<form class="col s12">
+		<div class="row">
+			<div class="input-field col s6">
+				<input id="${1:first_name}" type="text" class="validate">
+					<label for="${1:first_name}">${1:First Name}</label>
+			</div>
+			<div class="input-field col s6">
+				<input id="${2:last_name}" type="text" class="validate">
+				<label for="${2:last_name}">{Last$ 2:Name}</label>
+			</div>
+		</div>
+		<div class="row">
+			<div class="input-field col s12">
+				<input id="${3:username}" type="text" class="validate">
+				<label for="${3:username}">${3:Username}</label>
+			</div>
+		</div>
+		<div class="row">
+			<div class="input-field col s12">
+				<input id="${4:password}" type="password" class="validate">
+				<label for="${4:password}">${4:Password}</label>
+			</div>
+		</div>
+		<div class="row">
+			<div class="input-field col s12">
+				<input id="email" type="email" class="validate">
+				<label for="email">Email</label>
+			</div>
+		</div>
+		<${5:button} ${6:type="button"} class="btn waves-effect waves-light">${7:<i class="mdi-content-send ${8:right}"></i>}</${5:button}>
+	</form>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>m-form:register</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Materialize registration form</description>
+</snippet>

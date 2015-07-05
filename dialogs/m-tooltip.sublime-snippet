@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[
+	<content><![CDATA[
 <!-- data-position can be : bottom, top, left, or right -->
 <!-- add $('.tooltipped').tooltip({delay: 50}); to document ready -->
 <!-- data-delay controls delay before tooltip shows (in milliseconds)-->
@@ -9,4 +9,4 @@
 	<tabTrigger>m-tooltip</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
- </snippet>
+</snippet>

@@ -1,21 +1,21 @@
 <snippet>
-  <content><![CDATA[
-    <form action="${1}" method="${2:POST}">
-      <legend>${3:Form title}</legend>
-      <div class="input-field"> 
-        <div class="form-group">
-          <label class="control-label" for="${4:}">${5:label}</label>
-          <span class="help-block"></span>
-          <input type="text" class="form-control" id="" placeholder="Input field">
-          </div>
-        </div>
-        ${0}
-        <button type="submit" class="btn">${5:Submit}</button>
-      </form>
-      ]]></content>
-      <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-      <tabTrigger>m-form</tabTrigger>
-      <!-- Optional: Set a scope to limit where the snippet will trigger -->
-      <!-- <scope>source.hmtl</scope> -->
-      <description>Materialize form</description>
-    </snippet>    
+	<content><![CDATA[
+<form action="${1}" method="${2:POST}">
+	<legend>${3:Form title}</legend>
+	<div class="input-field"> 
+		<div class="form-group">
+			<label class="control-label" for="${4:}">${5:label}</label>
+			<span class="help-block"></span>
+			<input type="text" class="form-control" id="" placeholder="Input field">
+		</div>
+	</div>
+	${0}
+	<button type="submit" class="btn">${5:Submit}</button>
+</form>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>m-form</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.hmtl</scope> -->
+	<description>Materialize form</description>
+</snippet>
