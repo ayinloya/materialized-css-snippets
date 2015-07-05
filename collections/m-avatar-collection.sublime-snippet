@@ -1,24 +1,24 @@
 <snippet>
-  <content><![CDATA[
-    <ul class="collection">
-      <li class="collection-item avatar">
-        <img src="${1:images/yuna.jpg}" alt="" class="circle">
-          <span class="title">${2:Title}</span>
-          <p>${3:First Line} <br>
-           ${4:Second Line}
-         </p>
-         <a href="#!" class="secondary-content"><i class="mdi-action-grade"></i></a>
-       </li>
-       <li class="collection-item avatar">
-        <i class="mdi-file-folder circle"></i>
-        <span class="title">${5:Title}</span>
-        <p>${6:First Line} <br>
-         ${7:Second Line}
-       </p>
-       <a href="#!" class="secondary-content"><i class="mdi-action-grade"></i></a>
-     </li>
-   </ul>
-   ]]></content>
-   <tabTrigger>m-collection:avatar</tabTrigger>
-   <description>Materialize collection with avatar</description>
- </snippet>
+	<content><![CDATA[
+<ul class="collection">
+	<li class="collection-item avatar">
+		<img src="${1:images/yuna.jpg}" alt="" class="circle">
+		<span class="title">${2:Title}</span>
+		<p>${3:First Line} <br>
+			${4:Second Line}
+		</p>
+		<a href="#!" class="secondary-content"><i class="mdi-action-grade"></i></a>
+	</li>
+	<li class="collection-item avatar">
+		<i class="mdi-file-folder circle"></i>
+		<span class="title">${5:Title}</span>
+		<p>${6:First Line} <br>
+			${7:Second Line}
+		</p>
+		<a href="#!" class="secondary-content"><i class="mdi-action-grade"></i></a>
+	</li>
+</ul>
+]]></content>
+	<tabTrigger>m-collection:avatar</tabTrigger>
+	<description>Materialize collection with avatar</description>
+</snippet>

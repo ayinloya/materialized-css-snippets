@@ -1,12 +1,12 @@
 <snippet>
-  <content><![CDATA[
-    <ul class="collection ${1:with-header}">
-      <li class="collection-item">${2: <h4>Alvin</h4>}</li>
-      <li class="collection-item">${3:Alvin}</li>
-      <li class="collection-item">${4:Alvin}</li>
-      <li class="collection-item">${5:Alvin}</li>
-    </ul>
-    ]]></content>
-    <tabTrigger>m-collection</tabTrigger>
-    <description>Materialize basic collection</description>
-  </snippet>
+	<content><![CDATA[
+<ul class="collection ${1:with-header}">
+	<li class="collection-item">${2: <h4>Alvin</h4>}</li>
+	<li class="collection-item">${3:Alvin}</li>
+	<li class="collection-item">${4:Alvin}</li>
+	<li class="collection-item">${5:Alvin}</li>
+</ul>
+]]></content>
+	<tabTrigger>m-collection</tabTrigger>
+	<description>Materialize basic collection</description>
+</snippet>
