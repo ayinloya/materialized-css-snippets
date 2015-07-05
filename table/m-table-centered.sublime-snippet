@@ -1,32 +1,30 @@
 <snippet>
-  <content><![CDATA[
+	<content><![CDATA[
+<table class="centered">
+	<thead>
+		<tr>
+			<th data-field="${1:id}">${2:Name}</th>
+			<th data-field="${3:name}">${4:Item Name}</th>
+			<th data-field="${5:price}">${6:Item Price}</th>
+		</tr>
+	</thead>
 
-    <table class="centered">
-      <thead>
-        <tr>
-          <th data-field="${1:id}">${2:Name}</th>
-          <th data-field="${3:name}">${4:Item Name}</th>
-          <th data-field="${5:price}">${6:Item Price}</th>
-        </tr>
-      </thead>
-
-      <tbody>
-        <tr>
-          <td>${7:Alvin}</td>
-          <td>${8:Eclair}</td>
-          <td>${9:$0.87}</td>
-        </tr>
-        <tr>
-          <td>${10:Alan}</td>
-          <td>${11:Jellybean}</td>
-          <td>${12:$3.76}</td>
-        </tr>
-      </tbody>
-    </table>
-
-    ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>m-table:centered</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
-  </snippet>
+	<tbody>
+		<tr>
+			<td>${7:Alvin}</td>
+			<td>${8:Eclair}</td>
+			<td>${9:$0.87}</td>
+		</tr>
+		<tr>
+			<td>${10:Alan}</td>
+			<td>${11:Jellybean}</td>
+			<td>${12:$3.76}</td>
+		</tr>
+	</tbody>
+</table>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>m-table:centered</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
