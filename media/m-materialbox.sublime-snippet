@@ -1,11 +1,9 @@
 <snippet>
-  <content><![CDATA[
-
-
-   <img class="materialboxed" width="${1:650}" src="${0:images/sample-1.jpg}">
-    ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>m-materialbox</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
-  </snippet>
+	<content><![CDATA[
+<img class="materialboxed" width="${1:650}" src="${0:images/sample-1.jpg}">
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>m-materialbox</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,28 +1,26 @@
 <snippet>
-  <content><![CDATA[
-
-    <div class="slider">
-      <ul class="slides">
-        <li>
-          <img src="${:http://lorempixel.com/580/250/nature/1}"> <!-- random image -->
-            <div class="caption ${6:center}-align">
-              <h3>${1:This is our big Tagline!}</h3>
-              <h5 class="light grey-text text-lighten-3">${2:Here's our small slogan.}</h5>
-            </div>
-          </li>
-          <li>
-            <img src="${3:http://lorempixel.com/580/250/nature/2}"> <!-- random image -->
-              <div class="caption ${6:left}-align">
-                <h3>${4:Left Aligned Caption}</h3>
-                <h5 class="light grey-text text-lighten-3">${5:Here's our small slogan.}</h5>
-              </div>
-            </li>
-          </ul>
-        </div>
-
-        ]]></content>
-        <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-        <tabTrigger>m-slider</tabTrigger>
-        <!-- Optional: Set a scope to limit where the snippet will trigger -->
-        <!-- <scope>source.python</scope> -->
-      </snippet>
+	<content><![CDATA[
+<div class="slider">
+	<ul class="slides">
+		<li>
+			<img src="${7:http://lorempixel.com/580/250/nature/1}"> <!-- random image -->
+			<div class="caption ${6:center}-align">
+				<h3>${1:This is our big Tagline!}</h3>
+				<h5 class="light grey-text text-lighten-3">${2:Here's our small slogan.}</h5>
+			</div>
+		</li>
+		<li>
+			<img src="${3:http://lorempixel.com/580/250/nature/2}"> <!-- random image -->
+			<div class="caption ${6:left}-align">
+				<h3>${4:Left Aligned Caption}</h3>
+				<h5 class="light grey-text text-lighten-3">${5:Here's our small slogan.}</h5>
+			</div>
+		</li>
+	</ul>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>m-slider</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

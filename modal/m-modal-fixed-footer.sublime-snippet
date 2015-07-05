@@ -1,23 +1,21 @@
 <snippet>
-  <content><![CDATA[
+	<content><![CDATA[
+<!-- Modal Trigger -->
+<a class="waves-effect waves-light btn modal-trigger" href="#${1:modal1}">Modal</a>
 
-    <!-- Modal Trigger -->
-    <a class="waves-effect waves-light btn modal-trigger" href="#${1:modal1}">Modal</a>
-
-    <!-- Modal Structure -->
-    <div id="${1:modal1}" class="modal modal-fixed-footer">
-      <div class="modal-content">
-        <h4>${2:Modal Header}</h4>
-        <p>${3:A bunch of text}</p>
-      </div>
-      <div class="modal-footer">
-        <a href="#" class="waves-effect waves-green btn-flat modal-action modal-close">${0:Agree}</a>
-
-      </div>
-    </div>
-    ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>m-modal:fixed-footer</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
-  </snippet>
+<!-- Modal Structure -->
+<div id="${1:modal1}" class="modal modal-fixed-footer">
+	<div class="modal-content">
+		<h4>${2:Modal Header}</h4>
+		<p>${3:A bunch of text}</p>
+	</div>
+	<div class="modal-footer">
+		<a href="#" class="waves-effect waves-green btn-flat modal-action modal-close">${0:Agree}</a>
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>m-modal:fixed-footer</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
