@@ -1,10 +1,9 @@
 <snippet>
-  <content><![CDATA[
-
-   $('.tabs-wrapper .row').pushpin({ top: $('.tabs-wrapper').offset().top });
-   ]]></content>
-   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-   <tabTrigger>m-pushpin</tabTrigger>
-   <!-- Optional: Set a scope to limit where the snippet will trigger -->
-   <!-- <scope>source.python</scope> -->
- </snippet>
+	<content><![CDATA[
+$('.tabs-wrapper .row').pushpin({ top: $('.tabs-wrapper').offset().top });
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>m-pushpin</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

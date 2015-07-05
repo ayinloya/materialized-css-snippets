@@ -1,23 +1,21 @@
 <snippet>
-  <content><![CDATA[
+	<content><![CDATA[
+<div class="row">
 
-   <div class="row">
+	<div class="col s4">
+		${1:<!-- Promo Content 1 goes here -->}
+	</div>
+	<div class="col s4">
+		${2:<!-- Promo Content 2 goes here -->}
+	</div>
+	<div class="col s4">
+		${3:<!-- Promo Content 3 goes here -->}
+	</div>
 
-    <div class="col s4">
-      ${1:<!-- Promo Content 1 goes here -->}
-    </div>
-    <div class="col s4">
-      ${2:<!-- Promo Content 2 goes here -->}
-    </div>
-    <div class="col s4">
-      ${3:<!-- Promo Content 3 goes here -->}
-    </div>
-
-  </div>
-
-  ]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>m-col:promo</tabTrigger>
-  <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <!-- <scope>source.python</scope> -->
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>m-col:promo</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
 </snippet>
