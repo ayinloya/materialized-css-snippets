@@ -1,26 +1,26 @@
 <snippet>
-  <content><![CDATA[
-    <nav>
-      <div class="nav-wrapper">
-        <a href="#!" class="brand-logo">${1:Logo}</a>
-        <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
-        <ul class="right hide-on-med-and-down">
-          <li><a href="sass.html">${2:Sass}</a></li>
-          <li><a href="components.html">Components</a></li>
-          <li><a href="javascript.html">Javascript</a></li>
-          <li><a href="mobile.html">Mobile</a></li>
-        </ul>
-        <ul class="side-nav" id="mobile-demo">
-          <li><a href="sass.html">Sass</a></li>
-          <li><a href="components.html">Components</a></li>
-          <li><a href="javascript.html">Javascript</a></li>
-          <li><a href="mobile.html">Mobile</a></li>
-        </ul>
-      </div>
-    </nav>
-    ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>m-navbar:collapse</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
-  </snippet>
+	<content><![CDATA[
+<nav>
+	<div class="nav-wrapper">
+		<a href="#!" class="brand-logo">${1:Logo}</a>
+		<a href="#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+		<ul class="right hide-on-med-and-down">
+			<li><a href="sass.html">${2:Sass}</a></li>
+			<li><a href="components.html">Components</a></li>
+			<li><a href="javascript.html">Javascript</a></li>
+			<li><a href="mobile.html">Mobile</a></li>
+		</ul>
+		<ul class="side-nav" id="mobile-demo">
+			<li><a href="sass.html">Sass</a></li>
+			<li><a href="components.html">Components</a></li>
+			<li><a href="javascript.html">Javascript</a></li>
+			<li><a href="mobile.html">Mobile</a></li>
+		</ul>
+	</div>
+</nav>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>m-navbar:collapse</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

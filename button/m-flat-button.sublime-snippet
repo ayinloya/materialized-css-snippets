@@ -1,7 +1,7 @@
 <snippet>
-  <content><![CDATA[
-    <${1:button} ${2:type="button"} class="waves-effect waves-teal btn-flat">${3:<i class="mdi-content-add"></i>}</${1:button}>
-    ]]></content>
-    <tabTrigger>m-button:flat</tabTrigger>
-    <description>Materialize flat button</description>
-  </snippet>
+	<content><![CDATA[
+<${1:button} ${2:type="button"} class="waves-effect waves-teal btn-flat">${3:<i class="mdi-content-add"></i>}</${1:button}>
+]]></content>
+	<tabTrigger>m-button:flat</tabTrigger>
+	<description>Materialize flat button</description>
+</snippet>

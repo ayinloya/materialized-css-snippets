@@ -1,13 +1,13 @@
 <snippet>
-  <content><![CDATA[
-    <div class="input-field col s6">
-      <input id="${2:icon_prefix}" type="text" class="validate">
-        <label for="${2:icon_prefix}">${1:First Name}</label>
-      </div>
-      ]]></content>
-      <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-      <tabTrigger>m-input:text</tabTrigger>
-      <!-- Optional: Set a scope to limit where the snippet will trigger -->
-      <!-- <scope>source.python</scope> -->
-      <description>Materialize text input</description>
-    </snippet>
+	<content><![CDATA[
+<div class="input-field col s6">
+	<input id="${2:icon_prefix}" type="text" class="validate">
+	<label for="${2:icon_prefix}">${1:First Name}</label>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>m-input:text</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Materialize text input</description>
+</snippet>

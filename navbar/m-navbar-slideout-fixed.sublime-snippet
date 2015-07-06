@@ -1,15 +1,13 @@
 <snippet>
-  <content><![CDATA[
-   <ul id="slide-out" class="side-nav fixed">
-    <li><a href="#!">${1:First Sidebar Link}</a></li>
-    <li><a href="#!">${2:Second Sidebar Link}</a></li>
-  </ul>
-  <a href="#" data-activates="slide-out" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
-  
-
-  ]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>m-navbar:slideout-fixed</tabTrigger>
-  <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <!-- <scope>source.python</scope> -->
+	<content><![CDATA[
+<ul id="slide-out" class="side-nav fixed">
+	<li><a href="#!">${1:First Sidebar Link}</a></li>
+	<li><a href="#!">${2:Second Sidebar Link}</a></li>
+</ul>
+<a href="#" data-activates="slide-out" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>m-navbar:slideout-fixed</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
 </snippet>

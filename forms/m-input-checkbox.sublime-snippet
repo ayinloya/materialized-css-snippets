@@ -1,13 +1,13 @@
 <snippet>
-  <content><![CDATA[
-   <p>
-    <input type="checkbox" id="${1:test5}" />
-    <label for="${1:test5}">${2:Red}</label>
-  </p>
-  ]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>m-input:checkbox</tabTrigger>
-  <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <!-- <scope>source.python</scope> -->
-  <description>Materialize checkbox</description>
+	<content><![CDATA[
+<p>
+	<input type="checkbox" id="${1:test5}" />
+	<label for="${1:test5}">${2:Red}</label>
+</p>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>m-input:checkbox</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Materialize checkbox</description>
 </snippet>

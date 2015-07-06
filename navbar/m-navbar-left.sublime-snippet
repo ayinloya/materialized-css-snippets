@@ -1,18 +1,18 @@
 <snippet>
-  <content><![CDATA[
-   <nav>
-    <div class="nav-wrapper">
-      <a href="#" class="brand-logo right">Logo</a>
-      <ul id="nav-mobile" class="left hide-on-med-and-down">
-        <li><a href="sass.html">Sass</a></li>
-        <li><a href="components.html">Components</a></li>
-        <li><a href="javascript.html">JavaScript</a></li>
-      </ul>
-    </div>
-  </nav>
-  ]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>m-navbar:left</tabTrigger>
-  <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <!-- <scope>source.python</scope> -->
+	<content><![CDATA[
+<nav>
+	<div class="nav-wrapper">
+		<a href="#" class="brand-logo right">Logo</a>
+		<ul id="nav-mobile" class="left hide-on-med-and-down">
+			<li><a href="sass.html">Sass</a></li>
+			<li><a href="components.html">Components</a></li>
+			<li><a href="javascript.html">JavaScript</a></li>
+		</ul>
+	</div>
+</nav>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>m-navbar:left</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
 </snippet>

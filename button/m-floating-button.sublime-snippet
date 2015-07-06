@@ -1,7 +1,7 @@
 <snippet>
-  <content><![CDATA[
-    <${1:button} ${2:type="button"} class="btn-floating btn-large waves-effect waves-light ${3:red}"><i class="mdi-content-add"></i></${1:button}>
-    ]]></content>
-    <tabTrigger>m-button:floating</tabTrigger>
-    <description>Materialize floating button</description>
-  </snippet>
+	<content><![CDATA[
+<${1:button} ${2:type="button"} class="btn-floating btn-large waves-effect waves-light ${3:red}"><i class="mdi-content-add"></i></${1:button}>
+]]></content>
+	<tabTrigger>m-button:floating</tabTrigger>
+	<description>Materialize floating button</description>
+</snippet>

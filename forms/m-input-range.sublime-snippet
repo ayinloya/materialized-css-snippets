@@ -1,12 +1,12 @@
 <snippet>
-  <content><![CDATA[
-    <p class="range-field">
-      <input type="range" id="${1:test5}" min="${2:0}" max="${3:100}" />
-    </p>
-    ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>m-input:range</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
-    <description>Materialize range</description>
-  </snippet>
+	<content><![CDATA[
+<p class="range-field">
+	<input type="range" id="${1:test5}" min="${2:0}" max="${3:100}" />
+</p>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>m-input:range</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Materialize range</description>
+</snippet>
