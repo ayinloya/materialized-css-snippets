@@ -4,7 +4,7 @@ v1.0.5 Changelog:
 
 * Thanks to (@logomaster256), the snippets are now well indented and aligned.
 
-All credits to https://github.com/logomaster256 for this version.
+Credits to https://github.com/logomaster256 for this version.
 Thanks a lot.
 
 If you find any bugs or have a contribution please let me know at:
