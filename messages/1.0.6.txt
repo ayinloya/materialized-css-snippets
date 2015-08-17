@@ -1,0 +1,32 @@
+v1.0.6 Changelog:
+--------------------------------------------------------------------------------
+
+* Materialize CSS has changed how icons are handled. 
+* Thanks to https://github.com/pythad, the new materialize css icons has been taken care of.
+    
+    In this update, the following are changed
+
+    |     Snippet             |                     Old                     |         New
+    |-------------------------|---------------------------------------------------------------------------------
+    | m-icon                  |  <i class="mdi-content-add"></i>            | <i class="material-icons"></i>
+    | m-icon:tiny             |  <i class="tiny mdi-content-add"></i>       | <i class="tiny material-icons"></i>
+    | m-icon:sm               |  <i class="small mdi-content-add"></i>      | <i class="small material-icons"></i>
+    | m-icon:md               |  <i class="medium mdi-content-add"></i>     | <i class="medium material-icons"></i>
+   
+    - All other icon snippets are removed, since they are a base to the rest of the icons.
+
+Credit to all contributors
+* @pythad, new materialize css icons 
+* @logomaster256, awesome indentation
+* @theprinceanim, comprehensive readme
+* You, the coder.
+
+Thanks a lot.
+
+If you find any bugs or have a contribution please let me know at:
+
+https://github.com/ayinloya/materialized-css-snippets
+
+Happy coding. :)
+
+--------------------------------------------------------------------------------
