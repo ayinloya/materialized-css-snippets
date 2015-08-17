@@ -59,7 +59,7 @@ Press tab after typing the following snippet codes
 
 ### CDN
 
-| Component                 | Snippet code                   |
+| Component                 | Snippet code                    |
 |---------------------------| :-----------------------------:|
 | CDN Link(both CSS & JS)   | m-cdn                          |
 | CDN link (CSS only)       | m-cdn:css                      |
