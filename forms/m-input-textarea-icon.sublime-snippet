@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <div class="input-field col s6">
-	<i class="mdi-editor-mode-edit prefix"></i>
+	<i class="material-icons prefix">mode_edi</i>
 	<textarea id="${1:icon_prefix2}" class="${2:materialize-textarea}"></textarea>
 	<label for="${1:icon_prefix2}">${0:First Name}</label>
 </div>

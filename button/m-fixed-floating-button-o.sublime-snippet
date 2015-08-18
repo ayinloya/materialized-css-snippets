@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<div class="fixed-action-btn" style="bottom: 45px; right: 24px;">
+	<${1:button} ${2:type="button"} class="btn-floating btn-large ${3:red}">
+		<i class="large mdi-editor-mode-edit"></i>
+	</${1:button}>
+	<ul>
+		<li><${1:button} ${2:type="button"} class="btn-floating ${3:red}"><i class="large mdi-editor-insert-chart"></i></${1:button}></li>
+		<li><${1:button} ${2:type="button"} class="btn-floating ${3:red}"><i class="large mdi-editor-insert-chart"></i></${1:button}></li>
+		<li><${1:button} ${2:type="button"} class="btn-floating ${3:red}"><i class="large mdi-editor-insert-chart"></i></${1:button}></li>
+		<li><${1:button} ${2:type="button"} class="btn-floating ${3:red}"><i class="large mdi-editor-insert-chart"></i></${1:button}></li>
+	</ul>
+</div>
+
+]]></content>
+	<tabTrigger>m-fixed-floating-button-o</tabTrigger>
+	<description>Materialize fixed floating button</description>
+</snippet>
