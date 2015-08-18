@@ -59,7 +59,7 @@ Press tab after typing the following snippet codes
 
 ### CDN
 
-| Component                 | Snippet code                   |
+| Component                 | Snippet code                    |
 |---------------------------| :-----------------------------:|
 | CDN Link(both CSS & JS)   | m-cdn                          |
 | CDN link (CSS only)       | m-cdn:css                      |
@@ -202,24 +202,6 @@ Press tab after typing the following snippet codes
 | Icon(medium)              | m-icon:md                      |
 | Icon(small)               | m-icon:sm                      |
 | Icon(tiny)                | m-icon:tiny                    |
-| Icon(3d-rotation)         | m-icon:3d-rotation             |
-| Icon(accessibility)       | m-icon:accessibility           |
-| Icon(action)              | m-icon:action                  |
-| Icon(alert-error)         | m-icon:alert-error             |
-| Icon(av)                  | m-icon:av                      |
-| Icon(communication)       | m-icon:communication           |
-| Icon(content)             | m-icon:content                 |
-| Icon(device)              | m-icon:device                  |
-| Icon(editor)              | m-icon:editor                  |
-| Icon(file)                | m-icon:file                    |
-| Icon(hardware)            | m-icon:hardware                |
-| Icon(image)               | m-icon:image                   |
-| Icon(maps)                | m-icon:maps                    |
-| Icon(navigation)          | m-icon:navigation              |
-| Icon(navigation-menu)     | m-icon:navigation-menu         |
-| Icon(notification)        | m-icon:maps                    |
-| Icon(social)              | m-icon:social                  |
-| Icon(toggle)              | m-icon:toggle                  |
 
 ### JS
 

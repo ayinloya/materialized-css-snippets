@@ -2,11 +2,11 @@
 Thank you for installing Materialized Snippets
 ============================================================
 
-Materialized snippets contains snippets of Materialized CSS components.
-Hope  it improves your workflow. :)
+Materializedcss snippets contains snippets of Materialize CSS components.
+Hope it improves your workflow. :)
 
 Contribute as much as you can here
 https://github.com/ayinloya/materialized-css-snippets
 
-File any issues or you can correct any issues and send me pull requests. 
+File any issues or fork, correct any issues and send me pull requests. 
 No contribution is small.
