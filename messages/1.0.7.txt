@@ -1,18 +1,40 @@
-v1.0.7 Changelog:
+v1.0.7 Change log:
 --------------------------------------------------------------------------------
+
 * Materialize Css has changed how icons are handled. 
+<<<<<<< Updated upstream
 * Thanks to https://github.com/pythad, the new materialize css icons implementation has be taken care of.
+=======
+* Thanks to https://github.com/pythad, the new materialize css icons has been taken care of.
+>>>>>>> Stashed changes
     
     In this update, the following are changed
 
-    | Snippet                 |                     Old                     |         New
-    |-------------------------|---------------------------------------------------------------------------------
-    | m-icon                  |  <i class="mdi-content-add"></i>            | <i class="material-icons"></i>
-    | m-icon:tiny             |  <i class="tiny mdi-content-add"></i>       | <i class="tiny material-icons"></i>
-    | m-icon:sm               |  <i class="small mdi-content-add"></i>      | <i class="small material-icons"></i>
-    | m-icon:md               |  <i class="medium mdi-content-add"></i>     | <i class="medium material-icons"></i>
-   
+    Access the new version of materialize css
     
+    | Snippet                   |                   code                     
+    |---------------------------|--------------------------------------------
+    | m-icon                    |  <i class="material-icons"></i>
+    | m-icon:tiny               |  i class="tiny material-icons"></i>
+    | m-icon:sm                 |  i class="small material-icons"></i>
+    | m-icon:md                 |  <i class="medium material-icons"></i>
+
+    Using the old icon snippets
+    | Snippet                   |                   code                     
+    |---------------------------|---------------------------------------------
+    | m-icon-o                  |  <i class="mdi-content-add"></i>            
+    | m-icon:tiny-o             |  <i class="tiny mdi-content-add"></i>      
+    | m-icon:sm-o               |  <i class="small mdi-content-add"></i>     
+    | m-icon:md-o               |  <i class="medium mdi-content-add"></i>     
+
+
+   
+<<<<<<< Updated upstream
+    
+=======
+    - All other components that use icons have been refactored.
+        Please take a look at the REAM ME for more
+>>>>>>> Stashed changes
 
 
 Credit to all contributors
