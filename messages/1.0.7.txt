@@ -1,4 +1,4 @@
-v1.0.6 Changelog:
+v1.0.7 Changelog:
 --------------------------------------------------------------------------------
 * Materialize Css has changed how icons are handled. 
 * Thanks to https://github.com/pythad, the new materialize css icons has be taken care of.
