@@ -289,10 +289,10 @@ Press tab after typing the following snippet codes
 |---------------------------| :-----------------------------:|
 | Text-flow                 | m-flow-text                    |
 
-# ==Very Important==
+# Very Important
 
-==When using the previous versions of Materialize CSS before release v0.97.0, append ``-o``==
-eg. ``m-lg-button-o`` will produce the old icon implementation ``<button type="button" class="waves-effect waves-light btn-large"><i class="mdi-file-cloud right"></i></button>``.
+When using the Materialize CSS versions below release v0.97.0, append ``-o``
+    eg. ``m-lg-button-o`` will produce the old icon implementation ``<button type="button" class="waves-effect waves-light btn-large"><i class="mdi-file-cloud right"></i></button>``.
 
 
 
