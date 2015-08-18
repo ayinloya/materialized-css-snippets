@@ -5,6 +5,7 @@ Thank you for installing Materialized Snippets
 Materializedcss snippets contains snippets of Materialize CSS components.
 Hope it improves your workflow. :)
 
+Please have a look at the read me.
 Contribute as much as you can here
 https://github.com/ayinloya/materialized-css-snippets
 

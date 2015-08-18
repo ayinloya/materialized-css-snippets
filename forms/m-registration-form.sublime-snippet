@@ -30,7 +30,7 @@
 				<label for="email">Email</label>
 			</div>
 		</div>
-		<${5:button} ${6:type="button"} class="btn waves-effect waves-light">${7:<i class="mdi-content-send ${8:right}"></i>}</${5:button}>
+		<${5:button} ${6:type="button"} class="btn waves-effect waves-light">${7:<i class="material-icons ${8:right}">send</i>}</${5:button}>
 	</form>
 </div>
 ]]></content>

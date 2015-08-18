@@ -7,7 +7,7 @@
 		<p>${3:First Line} <br>
 			${4:Second Line}
 		</p>
-		<a href="#!" class="secondary-content"><i class="mdi-action-grade"></i></a>
+		<a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
 	</li>
 	<li class="collection-item avatar">
 		<i class="mdi-file-folder circle"></i>
@@ -15,7 +15,7 @@
 		<p>${6:First Line} <br>
 			${7:Second Line}
 		</p>
-		<a href="#!" class="secondary-content"><i class="mdi-action-grade"></i></a>
+		<a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
 	</li>
 </ul>
 ]]></content>

@@ -59,17 +59,19 @@ Press tab after typing the following snippet codes
 
 ### CDN
 
-| Component                 | Snippet code                    |
-|---------------------------| :-----------------------------:|
-| CDN Link(both CSS & JS)   | m-cdn                          |
-| CDN link (CSS only)       | m-cdn:css                      |
-| CDN link (JS only)        | m-cdn:js                       |
+| Component               		  | Snippet code 		   |
+|-------------------------------------:-----------------------------:|
+| CDN Link(both CSS & JS)   	  | m-cdn                            |
+| CDN link (CSS only)       	  | m-cdn:css                      |
+| CDN link (JS only)       		  | m-cdn:js                         |
 
 ### Templates
 
 | Component                 | Snippet code                   |
 |---------------------------| :-----------------------------:|
 | HTML5 Template Layout     | m-template:html                |
+| HTML5 Parallax Template Layout     | m-template:parallax                |
+| HTML5 starter Template Layout     | m-template:starter                |
 
 ### Forms
 
@@ -181,7 +183,7 @@ Press tab after typing the following snippet codes
 | Footer                    | m-footer                       |
 | Sticky footer             | m-sticky-footer:css            |
 
-*Sticky footer contains CSS code for implementing a sticky footer.
+==*Sticky footer contains CSS code for implementing a sticky footer.==
 
 
 ### Grid
@@ -211,7 +213,7 @@ Press tab after typing the following snippet codes
 | Pushpin                   |   m-pushpin                    |
 | Navbar-slideout-js        |   m-navbar:slideout-js         |
 
-*Remember to precede Navbar-slideout-js with the "$" sign
+==*Remember to precede Navbar-slideout-js with the "$" sign==
 
 ### Media
 
@@ -246,6 +248,7 @@ Press tab after typing the following snippet codes
 | Navbar(slideout-dropdown)  | m-navbar:slideout-dropdown     |
 | Navbar(slideout-fixed)     | m-navbar:slideout-fixed        |
 | Navbar(slideout-fullscreen)| m-navbar:slideout-fullscreen   |
+
 
 ### Pagination
 
@@ -285,6 +288,13 @@ Press tab after typing the following snippet codes
 | Component                 | Snippet code                   |
 |---------------------------| :-----------------------------:|
 | Text-flow                 | m-flow-text                    |
+
+# ==Very Important==
+
+==When using the previous versions of Materialize CSS before release v0.97.0, append ``-o``==
+eg. ``m-lg-button-o`` will produce the old icon implementation ``<button type="button" class="waves-effect waves-light btn-large"><i class="mdi-file-cloud right"></i></button>``.
+
+
 
 
 

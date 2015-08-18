@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <div class="input-field col s6">
-	<i class="mdi-action-account-circle prefix">
+	<i class="material-icons prefix">account_circle</>
 	<input id="${2:icon_prefix}" type="text" class="validate">
 	<label for="${2:icon_prefix}">${1:First Name}</label>
 </div>

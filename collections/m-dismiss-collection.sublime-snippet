@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
 <ul class="collection">
-	<li class="collection-item dismissable"><div>${1:Alvin}<a href="#!" class="secondary-content"><i class="mdi-content-send"></i></a></div></li>
-	<li class="collection-item dismissable"><div>${2:Alvin}<a href="#!" class="secondary-content"><i class="mdi-content-send"></i></a></div></li>
-	<li class="collection-item dismissable"><div>${3:Alvin}<a href="#!" class="secondary-content"><i class="mdi-content-send"></i></a></div></li>
-	<li class="collection-item dismissable"><div>${4:Alvin}<a href="#!" class="secondary-content"><i class="mdi-content-send"></i></a></div></li>
+	<li class="collection-item dismissable"><div>${1:Alvin}<a href="#!" class="secondary-content"><i class="material-icons">send</i></a></div></li>
+	<li class="collection-item dismissable"><div>${2:Alvin}<a href="#!" class="secondary-content"><i class="material-icons">send</i></a></div></li>
+	<li class="collection-item dismissable"><div>${3:Alvin}<a href="#!" class="secondary-content"><i class="material-icons">send</i></a></div></li>
+	<li class="collection-item dismissable"><div>${4:Alvin}<a href="#!" class="secondary-content"><i class="material-icons">send</i></a></div></li>
 </ul>
 ]]></content>
 	<tabTrigger>m-collection:dismiss</tabTrigger>

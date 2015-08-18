@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<${1:button} ${2:type="button"} class="btn waves-effect waves-light">${3:<i class="mdi-content-send ${4:right}"></i>}</${1:button}>
+<${1:button} ${2:type="button"} class="btn waves-effect waves-light">${3:<i class="material-icons ${4:right}">send</i>}</${1:button}>
 ]]></content>
 	<tabTrigger>m-submit-button</tabTrigger>
 	<description>Materialize submit button</description>
