@@ -59,9 +59,9 @@ Press tab after typing the following snippet codes
 
 ### CDN
 
-| Component               		  | Snippet code 		   |
-|-------------------------------------:-----------------------------:|
-| CDN Link(both CSS & JS)   	  | m-cdn                            |
+| Component                              |Snippet code 		   |
+|-------------------------------------|:-----------------------------:|
+| CDN Link(both CSS & JS)   	  |  m-cdn                            |
 | CDN link (CSS only)       	  | m-cdn:css                      |
 | CDN link (JS only)       		  | m-cdn:js                         |
 
@@ -183,7 +183,7 @@ Press tab after typing the following snippet codes
 | Footer                    | m-footer                       |
 | Sticky footer             | m-sticky-footer:css            |
 
-==*Sticky footer contains CSS code for implementing a sticky footer.==
+*Sticky footer contains CSS code for implementing a sticky footer.
 
 
 ### Grid
@@ -213,7 +213,7 @@ Press tab after typing the following snippet codes
 | Pushpin                   |   m-pushpin                    |
 | Navbar-slideout-js        |   m-navbar:slideout-js         |
 
-==*Remember to precede Navbar-slideout-js with the "$" sign==
+*Remember to precede Navbar-slideout-js with the "$" sign
 
 ### Media
 
