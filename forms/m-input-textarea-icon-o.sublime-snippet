@@ -1,14 +1,14 @@
 <snippet>
 	<content><![CDATA[
-<div class="input-field col s6">
-	<i class="mdi-editor-mode-edit prefix"></i>
-	<textarea id="${1:icon_prefix2}" class="${2:materialize-textarea}"></textarea>
-	<label for="${1:icon_prefix2}">${0:First Name}</label>
-</div>
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>m-input:textarea-icon</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
-	<description>Materialize textarea with icon</description>
-</snippet>
+    <div class="input-field col s6">
+     <i class="mdi-editor-mode-edit prefix"></i>
+     <textarea id="${1:icon_prefix2}" class="${2:materialize-textarea}"></textarea>
+     <label for="${1:icon_prefix2}">${0:First Name}</label>
+   </div>
+   ]]></content>
+   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>m-input:textarea-icon-o</tabTrigger>
+   <!-- Optional: Set a scope to limit where the snippet will trigger -->
+   <!-- <scope>source.python</scope> -->
+   <description>Materialize textarea with icon</description>
+ </snippet>

@@ -10,5 +10,5 @@
 	<tabTrigger>m-input:text-icon-o</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
-	<description>Materialize text input with icon</description>
+	<description>Materialize text input with old icons</description>
 </snippet>

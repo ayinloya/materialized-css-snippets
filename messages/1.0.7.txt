@@ -24,7 +24,7 @@ v1.0.7 Change log:
     | m-icon:md-o               |  <i class="medium mdi-content-add"></
 
 
-    - All other components that use icons have been refactored.
+    - All other components that use icons have been refactored to append -o at the end
         Please take a look at the REAM ME for more
 
 

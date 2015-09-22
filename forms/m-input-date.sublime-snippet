@@ -3,8 +3,10 @@
 <input type="date" class="datepicker">
 
 <!-- please add this to document.ready
-selectMonths: true, // Creates a dropdown to control month
-selectYears: 15 // Creates a dropdown of 15 years to control year -->
+\$('.datepicker').pickadate({
+    selectMonths: true, // Creates a dropdown to control month
+    selectYears: 15 // Creates a dropdown of 15 years to control year
+  });
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>m-input:date</tabTrigger>

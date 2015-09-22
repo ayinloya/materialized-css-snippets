@@ -9,7 +9,7 @@
 			</div>
 			<div class="input-field col s6">
 				<input id="${2:last_name}" type="text" class="validate">
-				<label for="${2:last_name}">{Last$ 2:Name}</label>
+				<label for="${2:last_name}">${2:Last Name}</label>
 			</div>
 		</div>
 		<div class="row">

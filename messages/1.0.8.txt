@@ -1,0 +1,20 @@
+v1.0.8 Change log:
+--------------------------------------------------------------------------------
+
+
+
+Credit to all contributors
+* @pythad, new materialize css icons 
+* @logomaster256, awesome indentation
+* @theprinceanim), comprehensive readme
+* You, the coder.
+
+Thanks a lot.
+
+If you find any bugs or have a contribution please let me know at:
+
+https://github.com/ayinloya/materialized-css-snippets
+
+Happy coding. :)
+
+--------------------------------------------------------------------------------

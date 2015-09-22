@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-\$('.tabs-wrapper .row').pushpin({ top: $('.tabs-wrapper').offset().top });
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>m-pushpin</tabTrigger>
+	<tabTrigger>m-cdn:google-icons</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>
