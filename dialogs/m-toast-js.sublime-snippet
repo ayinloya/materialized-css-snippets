@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+Materialize.toast(${1:'I am a toast!'}, ${2:3000}, ${3:'rounded'}) // 'rounded' is the class I'm applying to the toast
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>m-toast-js</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

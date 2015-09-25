@@ -277,6 +277,13 @@ Press tab after typing the following snippet codes
 |---------------------------| :-----------------------------:|
 | Scroll Spy                | m-scrollspy                    |
 
+### Toast
+
+| Component                                       | Snippet code                   |
+|-------------------------------------------------| :-----------------------------:|
+| Toast dialog                                    | m-toast                        |
+| Toast dialog js (programatically call a toast)  | m-toast-js                     |
+
 ### Tab
 
 | Component                 | Snippet code                   |

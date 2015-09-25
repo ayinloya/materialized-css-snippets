@@ -1,7 +1,7 @@
 v1.0.8 Change log:
 --------------------------------------------------------------------------------
-
-
+* fixed bugs in registration form
+* added m-toast for html toasts and m-toast-js for programatically calling toast messages
 
 Credit to all contributors
 * @pythad, new materialize css icons 
