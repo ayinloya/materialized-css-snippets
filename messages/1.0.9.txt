@@ -1,0 +1,26 @@
+v1.0.8 Change log:
+--------------------------------------------------------------------------------
+* changed m-badge to m-badge-o for old icons and m-badge for google icons
+* Added horizontal fixed button     m-fixed-floating-button:horizontal
+* Added breadcrumps
+* Added chips for tags and contacts
+* Added collapsible popout
+* Reduced spaces in m-col
+
+Credit to all contributors
+* @pythad, new materialize css icons 
+* @logomaster256, awesome indentation
+* @theprinceanim), comprehensive readme
+* You, the coder.
+
+Thanks a lot.
+
+If you find any bugs, have a contribution or suggestions please let me know at:
+
+https://github.com/ayinloya/materialized-css-snippets
+
+twitter.com/ayinloya
+
+Happy coding. :)
+
+--------------------------------------------------------------------------------

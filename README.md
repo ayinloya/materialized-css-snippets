@@ -59,19 +59,19 @@ Press tab after typing the following snippet codes
 
 ### CDN
 
-| Component                              |Snippet code 		   |
-|-------------------------------------|:-----------------------------:|
-| CDN Link(both CSS & JS)   	  |  m-cdn                            |
-| CDN link (CSS only)       	  | m-cdn:css                      |
-| CDN link (JS only)       		  | m-cdn:js                         |
+| Component                     |Snippet code 		   |
+|-------------------------------|:------------------:|
+| CDN Link(both CSS & JS)   	  |  m-cdn             |
+| CDN link (CSS only)       	  | m-cdn:css          |
+| CDN link (JS only)       		  | m-cdn:js           |
 
 ### Templates
 
-| Component                 | Snippet code                   |
-|---------------------------| :-----------------------------:|
-| HTML5 Template Layout     | m-template:html                |
-| HTML5 Parallax Template Layout     | m-template:parallax                |
-| HTML5 starter Template Layout     | m-template:starter                |
+| Component                       | Snippet code                 |
+|---------------------------------| :---------------------------:|
+| HTML5 Template Layout           | m-template:html              |
+| HTML5 Parallax Template Layout  | m-template:parallax          |
+| HTML5 starter Template Layout   | m-template:starter           |
 
 ### Forms
 
@@ -113,21 +113,22 @@ Press tab after typing the following snippet codes
 
 | Component                 | Snippet code                   |
 |---------------------------| :-----------------------------:|
-| Badge(old)                | m-badge                        |
-| New badge                 | m-badge:new                    |
+| Badge                     | m-badge                        |
+| Old badge                 | m-badge-o                      |
 
 ### Buttons
 
-| Component                 | Snippet code                   |
-|---------------------------| :-----------------------------:|
-| Button-disabled           | m-button:disabled              |
-| Fixed Floating Button     | m-fixed-floating-button        |
-| Flat Button               | m-button:flat                  |
-| Floating Button           | m-button:floating              |
-| Large Button              | m-lg-button                    |
-| Raised Button             | m-raised-button                |
-| Raised Button Icon        | m-raised-button:icon           |
-| Submit Button             | m-submit-button                |
+| Component                               | Snippet code                        |
+|-----------------------------------------| :----------------------------------:|
+| Button-disabled                         | m-button:disabled                   |
+| Fixed Floating Button                   | m-fixed-floating-button             |
+| Fixed Floating Button - horizontal      | m-fixed-floating-button:horizontal  |
+| Flat Button                             | m-button:flat                       |
+| Floating Button                         | m-button:floating                   |
+| Large Button                            | m-lg-button                         |
+| Raised Button                           | m-raised-button                     |
+| Raised Button Icon                      | m-raised-button:icon                |
+| Submit Button                           | m-submit-button                     |
 
 ### Cards
 
@@ -295,6 +296,19 @@ Press tab after typing the following snippet codes
 | Component                 | Snippet code                   |
 |---------------------------| :-----------------------------:|
 | Text-flow                 | m-flow-text                    |
+
+### Breadcrumps
+
+| Component                 | Snippet code                   |
+|---------------------------| :-----------------------------:|
+| Breadcrumps               | m-breadcrumps                  |
+
+### Chips
+##### for tags and contacts 
+| Component                 	 | Snippet code                  |
+|------------------------------| :----------------------------:|
+| Contacts chip		             | m-breadcrumps                 |
+| Tags chip               	   | m-breadcrumps                 |
 
 # Very Important
 
