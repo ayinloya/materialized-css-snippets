@@ -1,0 +1,23 @@
+<snippet>
+  <content><![CDATA[
+<ul class="collapsible popout" data-collapsible="accordion">
+  <li>
+    <div class="collapsible-header"><i class="material-icons">filter_drama</i>First</div>
+    <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div>
+  </li>
+  <li>
+    <div class="collapsible-header"><i class="material-icons">place</i>Second</div>
+    <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div>
+  </li>
+  <li>
+    <div class="collapsible-header"><i class="material-icons">whatshot</i>Third</div>
+    <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div>
+  </li>
+</ul>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>m-collapsible:popout</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+  <description>Materialize single select popout collapsible</description>
+</snippet>

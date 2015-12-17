@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<div class="col s2 m2  l2">
+<div class="col s2 m2 l2">
 	${0}
 </div>
 ]]></content>
