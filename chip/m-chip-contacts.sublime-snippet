@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<div class="chip">
+  <img src="${1:images/yuna.jpg}" alt="${2:Contact Person}">
+  Jane Doe ${3:<i class="material-icons">close</i>}
+</div>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>m-chip:contact</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+  <description>Materialize chip for contacts with optional close</description>
+</snippet>

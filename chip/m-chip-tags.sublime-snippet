@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+<div class="chip">
+  ${1:Tag} ${2:<i class="material-icons">close</i>}
+</div>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>m-chip:tag</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+  <description>Materialize chip for tags</description>
+</snippet>

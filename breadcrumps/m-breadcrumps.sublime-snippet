@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+<nav>
+    <div class="nav-wrapper">
+      <div class="col s12">
+        <a href="#!" class="breadcrumb">${1:First}</a>
+        <a href="#!" class="breadcrumb">${2:Second}</a>
+        <a href="#!" class="breadcrumb">${3:Third}</a>
+      </div>
+    </div>
+  </nav>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>m-breadcrumps</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
