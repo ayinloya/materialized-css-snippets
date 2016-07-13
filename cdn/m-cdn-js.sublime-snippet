@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <!-- Compiled and minified JavaScript -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/js/materialize.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
 
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
