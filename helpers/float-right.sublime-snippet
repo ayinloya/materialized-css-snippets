@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+<${1:div} class="right">${2}</${1:div}>
+]]></content>
+  <tabTrigger>m-right</tabTrigger>
+</snippet>

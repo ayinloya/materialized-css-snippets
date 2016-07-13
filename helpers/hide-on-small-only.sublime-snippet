@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+<${1:div} class="hide-on-small-only">${2}</${1:div}>
+]]></content>
+  <tabTrigger>m-hide:mobile</tabTrigger>
+  <description>Materializecss: Hidden for Mobile Only</description>
+</snippet>

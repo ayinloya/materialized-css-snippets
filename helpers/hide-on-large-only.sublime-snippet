@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+<${1:div} class="hide-on-large-only">${2}</${1:div}>
+]]></content>
+  <tabTrigger>m-hide:desktop</tabTrigger>
+  <description>Materializecss: Hidden for Desktop Only</description>
+</snippet>

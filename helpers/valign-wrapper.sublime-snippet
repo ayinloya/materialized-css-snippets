@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<div class="valign-wrapper">
+  ${1:<${2:h5} class="valign">${3}</${2:h5}>}
+</div>
+]]></content>
+  <tabTrigger>m-valign-wrapper</tabTrigger>
+</snippet>

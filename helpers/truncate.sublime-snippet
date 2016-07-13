@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+<${1:h4} class="truncate">${2}</${1:h4}>
+]]></content>
+  <tabTrigger>m-truncate</tabTrigger>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+<${1:div} class="hide">${2}</${1:div}>
+]]></content>
+  <tabTrigger>m-hide</tabTrigger>
+  <description>Materializecss: Hidden for all Devices</description>
+</snippet>

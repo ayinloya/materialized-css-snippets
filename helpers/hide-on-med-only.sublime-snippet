@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+<${1:div} class="hide-on-med-only">${2}</${1:div}>
+]]></content>
+  <tabTrigger>m-hide:tablet</tabTrigger>
+  <description>Materializecss: Hidden for Tablet Only</description>
+</snippet>

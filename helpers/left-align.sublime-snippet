@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+<${1:h5} class="left-align">${2}</${1:h5}>
+]]></content>
+  <tabTrigger>m-left-align</tabTrigger>
+</snippet>
