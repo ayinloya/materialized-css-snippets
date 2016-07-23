@@ -191,10 +191,41 @@ Press tab after typing the following snippet codes
 
 | Component                 | Snippet code                   |
 |---------------------------| :-----------------------------:|
+| Column(Promo)             | m-col:promo                    |
 | Column                    | m-col                          |
 | Column 1                  | m-col:1                        |
 | Column 2                  | m-col:2                        |
-| Column(Promo)             | m-col:promo                    |
+| Column 3                  | m-col:3                        |
+| Column 4                  | m-col:4                        |
+| Column 5                  | m-col:5                        |
+| Column 6                  | m-col:6                        |
+| Column 7                  | m-col:7                        |
+| Column 8                  | m-col:8                        |
+| Column 9                  | m-col:9                        |
+| Column 10                | m-col:10                        |
+| Column 11                | m-col:11                        |
+| Column 12                | m-col:12                        |
+
+
+### Helpers
+
+| Component                 | Snippet code                   |
+|---------------------------| :-----------------------------:|
+| Align                      | m-align                         |
+| Align Righ                     | m-right-align                         |
+| Align Left                      | m-left-align                         |
+| Align Center                     | m-center-align                         |
+| Align Vertical                     | m-valign                         |
+| Vertical Align Wrapper                     | m-valign-wrapper                         |
+| Float Right                      | m-right                         |
+| Float Left                      | m-left                         |
+| Hidden for Desktop Only                      | m-hide:desktop                          |
+| Hidden for Tablet and Below                      | m-hide:tablet-down                        |
+| Hidden for Tablet and Above                      | m-hide:tablet-up                         |
+| Hidden for Tablet Only                      | m-hide:tablet                         |
+| Hidden for Mobile Only                      | m-hide:mobile                         |
+| Hidden for all Devices                      | m-hide                         |
+| Truncate                      | m-truncate                         |
 
 ### Icons
 
