@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<img class="materialboxed" data-caption="A picture of some deer and tons of trees" width="${1:650}" src="${0:images/sample-1.jpg}">
+<img class="materialboxed" data-caption="${2:A picture of some deer and tons of trees}" width="${1:650}" src="${0:images/sample-1.jpg}">
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>m-materialbox:caption</tabTrigger>
