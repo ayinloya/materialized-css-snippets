@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <!-- Compiled and minified CSS -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/css/materialize.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
 	
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
