@@ -1,0 +1,25 @@
+v1.0.9 Change log:
+--------------------------------------------------------------------------------
+Bug fix:
+Fix issue https://github.com/ayinloya/materialized-css-snippets/issues/13
+Thanks @animeshsinghweb
+
+If there are new features added to the materialize css project which is not available here, send a request or add it and make a pull request. 
+
+Credit to all contributors
+* @pythad, new materialize css icons 
+* @logomaster256, awesome indentation
+* @theprinceanim), comprehensive readme
+* You, the hacker.
+
+Thanks a lot.
+
+If you find any bugs, have a contribution or suggestions please let me know at:
+
+https://github.com/ayinloya/materialized-css-snippets
+
+twitter.com/ayinloya
+
+Happy coding. :)
+
+--------------------------------------------------------------------------------
