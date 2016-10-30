@@ -1,4 +1,4 @@
-v1.0.9 Change log:
+v1.0.10 Change log:
 --------------------------------------------------------------------------------
 Bug fix:
 Fix issue https://github.com/ayinloya/materialized-css-snippets/issues/13
