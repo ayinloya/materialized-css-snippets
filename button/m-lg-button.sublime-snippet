@@ -3,5 +3,5 @@
 <${1:button} ${2:type="button"} class="waves-effect waves-light btn-large">${3:<i class="material-icons ${4:right}">${5:cloud}</i>}</${1:button}>
 ]]></content>
   <tabTrigger>m-lg-button</tabTrigger>
-  <description>Materialize large button test</description>
+  <description>Materialize large button</description>
 </snippet>
