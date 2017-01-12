@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+<label>Browser Select</label>
+<select class="browser-default" disabled>
+  <option value="" disabled selected>${1:Choose your option}</option>
+  <option value="${2:1}">${3:Option 1}</option>
+  <option value="${4:2}">${5:Option 2}</option>
+</select>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>m-input:select-default-disabled</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+  <description>Materialize default browser disabled select button</description>
+</snippet>

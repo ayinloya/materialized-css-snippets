@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+<div class="input-field col s12 m6">
+  <select class="icons">
+    <option value="" disabled selected>${1:Choose your option}</option>
+    <option value="" data-icon="${2:images/sample-1.jpg}" class="left circle">${3:example 1}</option>
+    <option value="" data-icon="${4:images/office.jpg}" class="left circle">${5:example 2}</option>
+    <option value="" data-icon="${6:images/yuna.jpg}" class="left circle">${7:example 1}</option>
+  </select>
+  <label>${8:Images in select}</label>
+</div>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>m-input:select-icon-left</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+  <description>Materialize select button with left image icons</description>
+</snippet>

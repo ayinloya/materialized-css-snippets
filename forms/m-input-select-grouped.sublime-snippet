@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+<div class="input-field col s12">
+  <select ${1:multiple}>
+    <optgroup label="${2:team 1}">
+      <option value="${3:1}">${4:Option 1}</option>
+      <option value="${5:2}">${6:Option 2}</option>
+    </optgroup>
+    <optgroup label="${7:team 2}">
+      <option value="${8:1}">${9:Option 3}</option>
+      <option value="${10:2}">${11:Option 4}</option>
+    </optgroup>
+  </select>
+  <label>${12:Optgroups}</label>
+</div>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>m-input:select-group</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+  <description>Materialize Group Select button</description>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<div class="input-field col ${5:s${6:12}}">
+  <input id="${2:email}" type="${1:email}" class="validate">
+  <label for="${2:email}" data-error="wrong" data-success="right">${4:Email}</label>
+</div>${7}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>m-input:message</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+  <description>Materialize custom input error and success messages</description>
+</snippet>

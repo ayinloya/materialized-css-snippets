@@ -1,11 +1,13 @@
 <snippet>
 	<content><![CDATA[
 <div class="file-field input-field">
-	<input class="file-path validate" type="text"/>
-	<div class="btn">
-		<span>${1:File}</span>
-		<input type="file" />
-	</div>
+  <div class="btn">
+  	<span>${1:File}</span>
+    <input type="file" ${2:multiple}>
+  </div>
+  <div class="file-path-wrapper">
+    <input class="file-path validate" type="text" ${3:placeholder="${4:Upload one or more files}"}>
+  </div>
 </div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

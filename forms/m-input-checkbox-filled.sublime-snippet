@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<p>
+  <input type="checkbox" class="filled-in" id="${1:filled-in-box}" ${2:checked="checked"} />
+  <label for="${1:filled-in-box}">${3:Filled in}</label>
+</p>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>m-input:checkbox-fill</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+  <description>Materialize checkbox filled in</description>
+</snippet>

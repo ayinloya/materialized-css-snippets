@@ -6,4 +6,6 @@
 	<tabTrigger>m-cdn:google-icons</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
+  <description>Google fonts cdn</description>
+
 </snippet>

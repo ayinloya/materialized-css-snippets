@@ -93,21 +93,31 @@ Press tab after typing the following snippet codes
 
 ### Input Fields (Form fields)
 
-| Component                 | Snippet code                   |
-|---------------------------| :-----------------------------:|
-| Text-Area Input           | m-input:textarea               |
-| Text-area Input Icon      | m-input:textarea-icon          |
-| Text Input                | m-input:text                   |
-| Text Input Icon           | m-input:text-icon              |
-| Checkbox                  | m-input:checkbox               |
-| Date Picker               | m-input:date                   |
-| File Input                | m-input:file                   |
-| Radio Button              | m-input:radio                  |
-| Radio Button with Gap     | m-input:radio-gap              |
-| Range Input               | m-input:range                  |
-| Select Box-disabled       | m-input:select-disabled        |
-| Switch-enabled            | m-input:switch-enabled         |
-| Switch-disabled           | m-input:switch-disabled        |
+| Component                                                    | Snippet code                   |
+|--------------------------------------------------------------| :-----------------------------:|
+| Input with custom input error and success messages           | m-input:textarea               |
+| Text-Area Input                                              | m-input:textarea               |
+| Text-area Input Icon                                         | m-input:textarea-icon          |
+| Text Input                                                   | m-input:text                   |
+| Text Input Icon                                              | m-input:text-icon              |
+| Checkbox                                                     | m-input:checkbox               |
+| Checkbox filled                                              | m-input:checkbox-fill          |
+| Date Picker                                                  | m-input:date                   |
+| File Input                                                   | m-input:file                   |
+| Radio Button                                                 | m-input:radio                  |
+| Radio Button with Gap                                        | m-input:radio-gap              |
+| Radio Button group                                           | m-input:radio-group            |
+| Range Input                                                  | m-input:range                  |
+| Select Box                                                   | m-input:select                 |
+| Select Box-disabled                                          | m-input:select-disabled        |
+| Select Box browser default                                   | m-input:select-default         |
+| Select Box browser default-disabled                          | m-input:select-default-disabled|
+| Select Box group                                             | m-input:select-group           |
+| Select Box with image icon                                   | m-input:select-icon            |
+| Select Box with left image icon                              | m-input:select-icon-left       |
+| Select Box multiselect                                       | m-input:select-multiple        |
+| Switch                                                       | m-input:switch         |
+| Switch-disabled                                              | m-input:switch-disabled        |
 
 ### Badges
 

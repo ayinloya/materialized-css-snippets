@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<p>
+  <input name="${1:group1}" type="radio" id="${2:test1}" />
+  <label for="${2:test1}">${3:Red}</label>
+</p>
+<p>
+  <input name="${1:group1}" type="radio" id="${4:test2}" />
+  <label for="${4:test2}">${5:Yellow}</label>
+</p>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>m-input:radio-group</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Materialize radio button group</description>
+</snippet>
