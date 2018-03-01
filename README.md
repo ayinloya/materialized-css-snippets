@@ -90,6 +90,7 @@ Press tab after typing the following snippet codes
 | Hover Table               | m-table:hover                  |
 | Responsive Table          | m-table:responsive             |
 | Striped Table             | m-table:striped                |
+| Highlight Table           | m-table:highlight                |
 
 ### Input Fields (Form fields)
 
